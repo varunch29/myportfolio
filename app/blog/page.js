@@ -4,7 +4,7 @@ import Education from "./components/homepage/education";
 import HeroSection from "./components/homepage/hero-section";
 import Projects from "./components/homepage/projects";
 import Skills from "./components/homepage/skills";
-import Blogs from "./components/homepage/blogs"; // Import the Blogs component
+import Blogs from "./components/homepage/blog"; // Import the Blogs component
 
 export default function Home() {
   return (
